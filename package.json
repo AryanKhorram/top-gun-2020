@@ -1,0 +1,27 @@
+{
+  "name": "top-gun-2020",
+  "version": "1.0.0",
+  "description": "An example",
+  "engines" : {
+      "node": "12.x"
+  },
+  "main": "Procfile.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AryanKhorram/top-gun-2020.git"
+  },
+  "keywords": [
+    "nodejs",
+    "heroku"
+  ],
+  "author": "Missa Jar Jar Binks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AryanKhorram/top-gun-2020/issues"
+  },
+  "homepage": "https://github.com/AryanKhorram/top-gun-2020#readme"
+}
